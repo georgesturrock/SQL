@@ -4,7 +4,7 @@
 
 -- Add to master first!
 CREATE LOGIN [armwrite] 
-	WITH PASSWORD = 'wr!t30nly' 
+	WITH PASSWORD = 'xxxyyyy' 
 GO
 
 -- ========================================================================================

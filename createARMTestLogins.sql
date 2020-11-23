@@ -20,3 +20,7 @@ GO
 -- Add user to the database owner role
 EXEC sp_addrolemember 'db_datawriter', 'armwrite' 
 GO
+
+
+DROP LOGIN [armwrite]
+GO
